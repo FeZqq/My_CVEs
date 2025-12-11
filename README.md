@@ -9,9 +9,9 @@
 
 ## Disclaimer
 
-All information is provided for \*\*educational and research purposes only\*\*.  
+- All information is provided for **educational and research purposes only**.  
 
-Do not use any material in this repository on systems you do not own or have authorization to test.
+- Do not use any material in this repository on systems you do not own or have authorization to test.
 
 
 ### Follow me for more: <br>
