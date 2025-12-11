@@ -1,31 +1,22 @@
-# CVE-2025-10161
-Authentication Bypass in Turkguven's Perfektive
+\# My CVE Discoveries
 
-# Description
-Improper Restriction of Excessive Authentication Attempts, Client-Side Enforcement of Server-Side Security, Reliance on Untrusted Inputs in a Security Decision vulnerability in Turkguven Software Technologies Inc. Perfektive allows Brute Force, Authentication Bypass, Functionality Bypass.This issue affects Perfektive: before Version: 12574 Build: 2701.
 
-# CWE
-CWE-307: CWE-307 Improper Restriction of Excessive Authentication Attempts
-CWE-602: CWE-602 Client-Side Enforcement of Server-Side Security
-CWE-807: CWE-807 Reliance on Untrusted Inputs in a Security Decision
 
-# CVSS
-| Score | Severity | Version | Vector String                              |
-|--------|-----------|----------|--------------------------------------------|
-| 7.3    | HIGH      | 3.1      | CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L |
+- This repository contains CVEs that I personally discovered and reported.  
+- Each CVE has its own directory, including technical details and (when allowed) proof-of-concept material.
 
-# Versions
-- Affected from 0 before Version: 12574 Build: 2701
 
-# Credits
-- Ferit ÖZNER
 
-# References
-https://www.usom.gov.tr/bildirim/tr-25-0387
+\## Disclaimer
 
-### CVE 
-https://www.cve.org/CVERecord?id=CVE-2025-10161
+All information is provided for \*\*educational and research purposes only\*\*.  
 
-### NIST
-https://nvd.nist.gov/vuln/detail/CVE-2025-10161
+Do not use any material in this repository on systems you do not own or have authorization to test.
+
+
+### Follow me for more: <br>
+
+\- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feritozner" height="15" width="20" /> <a href="https://twitter.com/feritozner" target="blank"> Twitter </a> <br>
+
+\- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferit-ozner" height="15" width="20" /> <a href="https://linkedin.com/in/ferit-ozner" target="blank"> Linkedin </a> <br>
 
